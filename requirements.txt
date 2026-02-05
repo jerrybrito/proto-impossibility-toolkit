@@ -1,0 +1,2 @@
+# Requires: paradoxical-void
+# (Not available on PyPI)
